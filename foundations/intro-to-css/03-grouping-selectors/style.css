@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.clicks {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+#yes {
+    background-color: black;
+    color: white;
+}
+#no {
+    background-color: yellow;
+}
+/* Should have used only classes*/
